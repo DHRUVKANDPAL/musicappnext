@@ -23,7 +23,8 @@ const Featured = () => {
       <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 grid-flow-row	gap-4 lg:mx-44 md:mx-32 mx-12">
         {featuredData.map((course: Courses) => {
           return (
-            <BackgroundGradient className="rounded-[22px] h-full w-full p-4 sm:p-10 bg-white dark:bg-zinc-900">
+            <div key={course?.id.toString()}>
+               <BackgroundGradient className="rounded-[22px] h-full w-full p-4 sm:p-10 bg-white dark:bg-zinc-900">
               <p className="text-base sm:text-xl text-black  mb-2 dark:text-neutral-200">
                 {course.title}
               </p>
@@ -32,6 +33,7 @@ const Featured = () => {
                 {course.description}
               </p>
             </BackgroundGradient>
+            </div>
           );
         })}
       </div>
