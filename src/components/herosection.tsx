@@ -13,7 +13,7 @@ export default function Hero() {
         />
         <div className="w-full h-full flex flex-col justify-center items-center mx-6 overflow-x-hidden">
           <h1 className="font-bold text-5xl sm:text-7xl uppercase z-10 text-neutral-100">
-            Master the art of Music
+            Master the art of <FlipWords words={words} /> 
           </h1>
           <p className="mt-4 text-base sm:text-xl max-w-[30rem] text-neutral-200">
             Dive into our comprehensive music courses and transform your musical
