@@ -11,7 +11,7 @@ export default function Hero() {
           className="-top-10 left-0 md:left-60 md:-top-20"
           fill="white"
         />
-        <div className="w-full h-full flex flex-col justify-center items-center mx-6">
+        <div className="w-full h-full flex flex-col justify-center items-center mx-6 overflow-x-hidden">
           <h1 className="font-bold text-5xl sm:text-7xl uppercase z-10 text-neutral-100">
             Master the art of <FlipWords words={words} /> 
           </h1>
