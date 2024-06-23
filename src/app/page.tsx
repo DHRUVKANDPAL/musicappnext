@@ -12,7 +12,7 @@ export default function Home() {
         <Featured></Featured>
         <WhyChooseUs/>
         <Testimonial/>
-        <GlobePage/>
+        
     </main>
     </>
   );
