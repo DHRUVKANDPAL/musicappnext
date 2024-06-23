@@ -3,6 +3,7 @@ import Image from "next/image";
 import Featured from "@/components/featured";
 import WhyChooseUs from "@/components/whychooseus";
 import Testimonial from "@/components/testimonial";
+import { GlobePage } from "@/components/globepage";
 export default function Home() {
   return (
     <>
@@ -11,7 +12,7 @@ export default function Home() {
         <Featured></Featured>
         <WhyChooseUs/>
         <Testimonial/>
-
+        <GlobePage/>
     </main>
     </>
   );
