@@ -6,7 +6,7 @@ export default function Hero() {
    const words=["timing","rhythm","scales"]
   return (
     <>
-      <div className="min-h-screen md:min-h-[47rem] flex justify-center items-center  text-clip py-10 pt-16 text-center">
+      <div className="min-h-screen md:min-h-[47rem] flex justify-center items-center   py-10 pt-16 text-center">
         <Spotlight
           className="-top-10 left-0 md:left-60 md:-top-20"
           fill="white"
