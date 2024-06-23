@@ -3,7 +3,7 @@ import { FlipWords } from "./ui/flip-words";
 import { Button } from "./ui/moving-border";
 
 export default function Hero() {
-   const words=["timing","rhythm","scales"]
+   const words=["rhythm","timing","scales"]
   return (
     <>
       <div className="min-h-screen md:min-h-[47rem] flex justify-center items-center   py-10 pt-16 text-center">
