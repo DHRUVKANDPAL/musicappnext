@@ -65,7 +65,7 @@ export const FlipWords = ({
         )}
         key={currentWord}
       >
-        {currentWord.split("").map((letter, index) => (
+        {currentWord.split(" ").map((letter, index) => (
           <motion.span
             key={currentWord + index}
             initial={{ opacity: 0, y: 10, filter: "blur(8px)" }}
@@ -76,7 +76,7 @@ export const FlipWords = ({
             }}
             className="inline-block"
           >
-            {letter}
+            &nbsp;{letter}
           </motion.span>
         ))}
       </motion.div>

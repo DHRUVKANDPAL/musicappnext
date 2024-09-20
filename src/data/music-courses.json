@@ -1,105 +1,104 @@
 {
-   "courses": [
-     {
-       "id": 1,
-       "title": "Guitar Fundamentals",
-       "slug": "guitar-fundamentals",
-       "description": "Learn the basics of playing guitar with our comprehensive beginner's course.",
-       "price": 99.99,
-       "instructor": "John Doe",
-       "isFeatured": true,
-       "image": "/courses/guitar.jpg" 
-     },
-     {
-       "id": 2,
-       "title": "Piano for Beginners",
-       "slug": "piano-for-beginners",
-       "description": "Start your musical journey with foundational piano skills taught by expert instructors.",
-       "price": 109.99,
-       "instructor": "Jane Smith",
-       "isFeatured": false,
-       "image": "/courses/piano.jpg" 
-     },
-     {
-       "id": 3,
-       "title": "Advanced Vocal Techniques",
-       "slug": "advanced-vocal-techniques",
-       "description": "Enhance your singing with advanced vocal techniques for intermediate to advanced learners.",
-       "price": 119.99,
-       "instructor": "Emily Johnson",
-       "isFeatured": true,
-       "image": "/courses/vocalist.jpg" 
-     },
-     {
-       "id": 4,
-       "title": "Drumming Mastery",
-       "slug": "drumming-mastery",
-       "description": "Master the drums with our comprehensive course covering all skill levels.",
-       "price": 129.99,
-       "instructor": "Mike Brown",
-       "isFeatured": false,
-       "image": "/courses/drumming.jpg"
-     },
-     {
-       "id": 5,
-       "title": "Jazz Improvisation",
-       "slug": "jazz-improvisation",
-       "description": "Learn the art of jazz improvisation with this course designed for all levels.",
-       "price": 139.99,
-       "instructor": "Chris Davis",
-       "isFeatured": false,
-       "image": "/courses/jazz.jpg"
-     },
-     {
-       "id": 6,
-       "title": "Music Production Fundamentals",
-       "slug": "music-production-fundamentals",
-       "description": "Dive into music production with this introductory course on the basics of sound engineering and mixing.",
-       "price": 149.99,
-       "instructor": "Alex Wilson",
-       "isFeatured": true,
-       "image": "/courses/music-prod.jpg"
-     },
-     {
-       "id": 7,
-       "title": "Songwriting Essentials",
-       "slug": "songwriting-essentials",
-       "description": "Learn the essentials of songwriting to express your musical creativity.",
-       "price": 159.99,
-       "instructor": "Samantha Miller",
-       "isFeatured": false,
-       "image": "/courses/song-writing.jpg"
-     },
-     {
-       "id": 8,
-       "title": "Electronic Music Production",
-       "slug": "electronic-music-production",
-       "description": "Create compelling electronic music with our course designed for beginners to advanced users.",
-       "price": 169.99,
-       "instructor": "Luke Harris",
-       "isFeatured": true,
-       "image": "/courses/music-prod.jpg"
-     },
-     {
-       "id": 9,
-       "title": "Classical Music History",
-       "slug": "classical-music-history",
-       "description": "Explore the rich history of classical music from its origins to the present day.",
-       "price": 179.99,
-       "instructor": "Grace Lee",
-       "isFeatured": false,
-       "image": "/courses/classical-music.jpg"
-     },
-     {
-       "id": 10,
-       "title": "Blues Guitar Techniques",
-       "slug": "blues-guitar-techniques",
-       "description": "Discover the techniques of blues guitar to add soul and depth to your playing.",
-       "price": 189.99,
-       "instructor": "Ethan Moore",
-       "isFeatured": true,
-       "image": "/courses/blues.jpg"
-     }
-   ]
- }
- 
+  "courses": [
+    {
+      "id": 1,
+      "title": "Joker's Philosophy of Chaos",
+      "slug": "jokers-philosophy-chaos",
+      "description": "Explore the Joker's worldview and the philosophy behind chaos and madness.",
+      "price": 99.99,
+      "instructor": "Arthur Fleck",
+      "isFeatured": true,
+      "image": "/courses/joker-philosophy.jpg" 
+    },
+    {
+      "id": 2,
+      "title": "The Art of Deception",
+      "slug": "art-of-deception",
+      "description": "Learn the psychological techniques of manipulation and deception inspired by the Joker.",
+      "price": 109.99,
+      "instructor": "Joker's Henchman",
+      "isFeatured": false,
+      "image": "/courses/deception.jpg" 
+    },
+    {
+      "id": 3,
+      "title": "Comedy and Tragedy: A Dual Performance",
+      "slug": "comedy-tragedy-performance",
+      "description": "Master the balance between humor and tragedy in performance, inspired by the Joker's persona.",
+      "price": 119.99,
+      "instructor": "Harley Quinn",
+      "isFeatured": true,
+      "image": "/courses/comedy-tragedy.jpg" 
+    },
+    {
+      "id": 4,
+      "title": "Makeup and Character Transformation",
+      "slug": "makeup-character-transformation",
+      "description": "Discover the techniques for creating the Joker's iconic look and transforming into a character.",
+      "price": 129.99,
+      "instructor": "Gotham Makeup Artists",
+      "isFeatured": false,
+      "image": "/courses/makeup.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Joker's Influence on Modern Villainy",
+      "slug": "jokers-influence-villainy",
+      "description": "Analyze the Joker's impact on modern villain characters in film and literature.",
+      "price": 139.99,
+      "instructor": "The Riddler",
+      "isFeatured": false,
+      "image": "/courses/influence-villainy.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Creating Chaos: The Joker's Strategy",
+      "slug": "creating-chaos-strategy",
+      "description": "Learn about the Joker's methods for creating chaos and how they can apply to storytelling.",
+      "price": 149.99,
+      "instructor": "Bane",
+      "isFeatured": true,
+      "image": "/courses/chaos-strategy.jpg"
+    },
+    {
+      "id": 7,
+      "title": "The Psychology of the Joker",
+      "slug": "psychology-of-joker",
+      "description": "Delve into the psychological aspects of the Joker's character and what drives his actions.",
+      "price": 159.99,
+      "instructor": "Dr. Harleen Quinzel",
+      "isFeatured": false,
+      "image": "/courses/psychology.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Symbolism in Joker's Storytelling",
+      "slug": "symbolism-joker-storytelling",
+      "description": "Explore the symbols and themes present in Joker's narratives and their deeper meanings.",
+      "price": 169.99,
+      "instructor": "Gotham Storytellers",
+      "isFeatured": true,
+      "image": "/courses/symbolism.jpg"
+    },
+    {
+      "id": 9,
+      "title": "Laughing in the Face of Danger",
+      "slug": "laughing-danger",
+      "description": "Understand how humor can be used as a tool for coping with adversity, inspired by the Joker.",
+      "price": 179.99,
+      "instructor": "Joker's Comedic Duo",
+      "isFeatured": false,
+      "image": "/courses/laughing-danger.jpg"
+    },
+    {
+      "id": 10,
+      "title": "Joker: The Icon of Anarchy",
+      "slug": "joker-icon-anarchy",
+      "description": "Study the Joker as a symbol of anarchy in modern culture and its implications.",
+      "price": 189.99,
+      "instructor": "The Court of Owls",
+      "isFeatured": true,
+      "image": "/courses/anarchy.jpg"
+    }
+  ]
+}
